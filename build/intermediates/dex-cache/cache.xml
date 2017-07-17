@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/inthirakumaaranwso2com/.android/build-cache/df9b187176003783119893095110829cb9db1ec0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/home/inthirakumaaranwso2com/micro-controller/new/smart-remote-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e14870502eead91b00cb6fd4249be5558f82f0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/inthirakumaaranwso2com/micro-controller/new/smart-remote-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/inthirakumaaranwso2com/micro-controller/new/smart-remote-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_42a6553ad1d8928d78c77f516aa8aa6ec2d76a10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/inthirakumaaranwso2com/micro-controller/new/smart-remote-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8c942eeffce8433675795193216e0de6e5fe9f94">
+        <dex dex="/home/inthirakumaaranwso2com/micro-controller/new/smart-remote-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b7017105356f415bc1303d88c06206e5b2333958/classes.dex" />
+    </item>
+
+</items>

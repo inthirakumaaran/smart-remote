@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="buttonround">
+        <item name="android:background">@drawable/powers</item>
+
+    </style>
+
+    <style name="buttonback">
+        <item name="android:background">@drawable/butback</item>
+
+    </style>
+
+    <style name="buttonquit">
+        <item name="android:background">@drawable/butquit</item>
+
+    </style>
+
+
+</resources>
